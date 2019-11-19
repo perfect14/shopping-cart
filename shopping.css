@@ -1,0 +1,71 @@
+.navbar-home{
+	margin-top: 30px;
+}
+.size{
+	margin-top: 30px;
+	margin-left: 50px;
+}
+
+.add{
+	background-color: brown;
+	border: none;
+	border-radius: none;
+	width: 170px;
+}
+
+.free{
+	background-color: black;
+	color: white;
+	margin-left: 70px;
+}
+.line{
+	background-color: purple;
+	width: 70px;
+	height: 5px;
+}
+
+.prize{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+
+.quantity{
+	color: grey;
+	text-align: center;
+}
+.flex-container div {
+    background-color: grey;
+    width: 60px;
+    height: 50px;
+    margin: 7px;
+    border-radius: 27px;
+}
+
+.star{
+	background-color: grey;
+	padding-left: 20px;
+}
+
+
+.sizes{
+	text
+}
+
+.num{
+	width: 100px;
+	height: 40px;
+	border-radius: 2px;
+
+}
+
+.flex-container{
+	display: flex;
+}
+
+.flex-container div{background-color: grey;
+	width: 60px;
+	height: 40px;
+	margin: 7px;
+
+}
